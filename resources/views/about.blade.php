@@ -4,14 +4,16 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Hello-City</title>
+        <title>About Us | Hello-City</title>
 
         
        
     </head>
     <body >
-        <h1>Hello from TOGO!!!!!</h1>
-        <p>It currenttly {{ date('h:i A') }}.</p>
+       
+        <p>Built with &hearts; by LES TEACHERS DU NET.</p>
+
+           <p><a href='/'>Revenir a la page d'accueil</a></p>
 
 
         <footer>
