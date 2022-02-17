@@ -2,7 +2,7 @@
 
 @section('title')
 
-About Us|Hello City
+About Us| {{env('APP_NAME')}}
 @endsection
 
  @section('content')      

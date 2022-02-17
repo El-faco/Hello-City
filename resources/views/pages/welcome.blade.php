@@ -1,7 +1,7 @@
 @extends('app')
 
 @section('title')
- Hello City
+ {{env('APP_NAME')}}
  @endsection
 
 @section('content')
