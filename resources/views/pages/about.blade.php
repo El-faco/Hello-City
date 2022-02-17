@@ -5,7 +5,12 @@
 About Us| {{config('app.name')}}
 @endsection
 
- @section('content')      
+
+
+ @section('content')  
+ 
+ <img src="/images/beau.jpg"  alt="Concepteur du site">
+
         <p>Built with &hearts; by LES TEACHERS DU NET.</p>
 
            <p><a href= "{{route('home')}}">Revenir a la page d'accueil</a></p>
