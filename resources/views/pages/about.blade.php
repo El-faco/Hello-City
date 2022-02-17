@@ -12,10 +12,5 @@ About Us| {{config('app.name')}}
 
 @endsection
 
-@section('footer')
-
-
-
-@endsection
        
 

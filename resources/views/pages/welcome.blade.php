@@ -11,9 +11,5 @@
    
 @endsection
 
-@section('footer')
 
-&middot; <a href="{{route('about')}}">About Us</a>
-
-@endsection
 
