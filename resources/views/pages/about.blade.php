@@ -2,7 +2,7 @@
 
 @section('title')
 
-About Us| {{env('APP_NAME')}}
+About Us| {{config('app.name')}}
 @endsection
 
  @section('content')      
