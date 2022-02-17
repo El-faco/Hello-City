@@ -9,7 +9,7 @@ About Us| {{config('app.name')}}
 
  @section('content')  
  
- <img src="/images/beau.jpg"  alt="Concepteur du site">
+ <img src="{{asset('/images/beau.jpg')}}"  alt="Concepteur du site">
 
         <p>Built with &hearts; by LES TEACHERS DU NET.</p>
 
