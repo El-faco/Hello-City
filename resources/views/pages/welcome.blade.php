@@ -13,7 +13,7 @@
 
 @section('footer')
 
-&middot; <a href="/about-us">About Us</a>
+&middot; <a href="{{route('about')}}">About Us</a>
 
 @endsection
 
